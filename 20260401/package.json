@@ -7,6 +7,7 @@
   "type": "commonjs",
   "main": "httpserver.js",
   "scripts": {
+    "start": "node httpserver.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
